@@ -1,5 +1,6 @@
-<code><pre>
--course
+<code>
+<pre>
+-app
   -- dist  (线上环境)
   -- docs  (文档)
   -- src   (生产环境)
