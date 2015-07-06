@@ -1,4 +1,3 @@
-<code>
 <pre>
 -app
   -- dist  (线上环境)
@@ -21,4 +20,4 @@
   -- test  (单元测试和端到端测试)
   -- gulpfile.js (gulp 构建配置文件)
   -- package.json
-</pre></code>
+</pre>
